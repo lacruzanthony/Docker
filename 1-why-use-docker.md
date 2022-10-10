@@ -44,7 +44,7 @@ I'll use [Docker](https://docs.docker.com/engine/install/#:~:text=Docker%20Deskt
 And then after a very brief pause, almost instantaneously, I have an instance of Redis up and running on my computer, and that's pretty much it.
 
 ![docker command](./command-docker.png)
-*<p align="center">3. Running a Redis with Docker command</p>*
+*<p align="center">3. Running a instances Redis with Docker command</p>*
 
 That is Docker in a nutshell.
 
