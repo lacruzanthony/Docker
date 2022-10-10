@@ -3,8 +3,7 @@
 We're going to first tackle why we use Docker by going through a quick little flow diagram.
 
 ![installing program flow](./installing-program-flow.svg)
-*<center>1. Installing a software flow</center>*
-
+*<p align="center">1. Installing a software flow</p>*
 
 And this is a flow of probably a process you've gone through at least once in your life before. It's a flow of installing software on your personal computer.
 
@@ -13,7 +12,7 @@ What is the issue with this flow?
 If we try to install [Redis](https://redis.io/docs/getting-started/installation/install-redis-on-windows/#:~:text=guide%20assumes%20Ubuntu.-,Install%20Redis,-Once%20you%27re%20running), which is an in-memory data store without taking in consideration whole dependencies we will get the next error:
 
 ![command error](./command-error.png)
-*<center>2. Dependencies error</center>*
+*<p align="center">2. Dependencies error</p>*
 
 
 And I bet at least once for you this is what has happened.
@@ -45,6 +44,7 @@ I'll use [Docker](https://docs.docker.com/engine/install/#:~:text=Docker%20Deskt
 And then after a very brief pause, almost instantaneously, I have an instance of Redis up and running on my computer, and that's pretty much it.
 
 ![docker command](./command-docker.png)
+*<p align="center">3. Running a Redis with Docker command</p>*
 
 That is Docker in a nutshell.
 
