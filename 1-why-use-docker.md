@@ -1,4 +1,4 @@
-# Why use docker
+# Why use docker?
 
 We're going to first tackle why we use Docker by going through a quick little flow diagram.
 
